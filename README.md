@@ -6,7 +6,7 @@
 [![Kaggle](https://img.shields.io/badge/Kaggle-GPU%20T4%20x2-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white)](https://kaggle.com)
 [![Ollama](https://img.shields.io/badge/Ollama-DeepHat%20%2F%20WhiteRabbitNeo-black?style=for-the-badge&logo=ollama&logoColor=white)](https://ollama.ai)
 [![Cloudflare](https://img.shields.io/badge/Cloudflare-Zero%20Trust%20Tunnel-F38020?style=for-the-badge&logo=cloudflare&logoColor=white)](https://cloudflare.com)
-[![Security](https://img.shields.io/badge/Focus-Sandbox%20Malware%20Analysis-red?style=for-the-badge)](https://github.com/zGordola1)
+[![Security](https://img.shields.io/badge/Focus-Sandbox%20Malware%20Analysis-red?style=for-the-badge)](https://github.com/NielzSec)
 
 </div>
 
